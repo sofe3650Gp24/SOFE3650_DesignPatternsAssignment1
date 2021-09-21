@@ -1,4 +1,4 @@
-# SOFE3650_DesignPatternsAssignment1
+# SOFE3650_DesignPatternsAssignment1 Group 24
 
 UML file link:
 
