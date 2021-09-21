@@ -1,6 +1,6 @@
 # SOFE3650_DesignPatternsAssignment1
 
-UML link:
+UML file link:
 
 https://drive.google.com/file/d/1xRXKSVyZZRTsa10d8spn9RIRE8FIAlnv/view?usp=sharing
 
