@@ -1,0 +1,8 @@
+<appleproducts>
+    <product name="iPhone">
+        <price value="1099" />
+    </product>
+    <product name="iPad">
+        <price value="600" />
+    </product>
+</appleproducts>
